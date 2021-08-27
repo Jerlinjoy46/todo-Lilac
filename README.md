@@ -1,6 +1,6 @@
 ### To Run 
-git clone 
-cd 
+git clone https://github.com/Jerlinjoy46/todo-Lilac.git
+cd todo-Lilac
 npm install 
 npm run dev
 
